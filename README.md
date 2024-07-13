@@ -53,11 +53,5 @@ The report includes:
 - Detailed explanation of data structures
 - Program code and screenshots of output
 
-## License
 
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or suggestions, please contact [Your Name] at [Your Email].
 
